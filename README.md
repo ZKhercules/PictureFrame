@@ -12,3 +12,7 @@
 
 
 3.代码中已做详细备注及说明，如有需要，可下载查看。
+
+![15828976-8d93ba4bbbc11fdf](https://github.com/ZKhercules/PictureFrame/assets/14028942/85feafae-2329-47a9-973b-713ae870095e)
+
+此图中红色区域为画布，也就是父view，蓝色区域为想最终得到的结果图。
